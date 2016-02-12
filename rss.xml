@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BK-test]]></title>
         <description><![CDATA[BK-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bk-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 08:42:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 08:42:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bk-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skedsmo HK i Tærudhallen]]></title>
+            <description><![CDATA[<h1>Skedsmo HK i Tærudhallen</h1>]]></description>
+            <link>urn:uuid:8a9ad766-8275-4e0c-bd77-ee249e88404b</link>
+            <guid isPermaLink="false">a40b61c2-2ad2-42c8-8a1e-9ae39b4170bb</guid>
+            <pubDate>Fri, 12 Feb 2016 08:42:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prosjekt Mestring]]></title>
             <description><![CDATA[<article><h1>Prosjekt Mestring</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0a61d1f675ccd9ef98a74a4792f70ab07870480.jpg"></article>]]></description>
