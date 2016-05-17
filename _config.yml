@@ -1,7 +1,7 @@
 name: BK-test
 favicon: null
-layout_spectrum: 0.99346
-typography_spectrum: 0.23316
+layout_spectrum: 0.25723
+typography_spectrum: 0.39677
 cta:
   domain: null
   bucket: null
