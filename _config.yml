@@ -1,28 +1,40 @@
-name: BK-test
-favicon: null
-layout_spectrum: 0.25723
-typography_spectrum: 0.39677
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7368421
+  brandStrength: 0.125
+  lightness: 0.7813283
   brandColors:
     - '#fbfaf8'
     - '#000000'
     - '#4166d9'
     - '#72b8f0'
     - '#273f74'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.8471178
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: BK-test
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.39677
+layout_spectrum: 0.7268171
